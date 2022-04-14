@@ -9,7 +9,7 @@ double baz(double x);
 int main (int argc, char **argv)
 {
 int ii, jj;
-  ii =  0;
+  ii =  1;
   jj = -1;
         foo(ii, jj);
   foo(jj, ii);
